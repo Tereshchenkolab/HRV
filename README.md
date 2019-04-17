@@ -28,5 +28,5 @@ See .m files in the repository for HRV parameters calculations.
 Test files  are provided for HRV calculation testing. Sampling rate 200 Hz. Amplitude resolution 4.88 µV.
 
 
-### Manuscripts to reference:
+### Manuscript to reference:
 under review
