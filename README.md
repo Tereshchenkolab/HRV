@@ -8,7 +8,7 @@ Heart Rate Variability measurement on a single-lead raw Zio Patch ECG signal
       Utilizes modified pan-tompkins, principle component analysis, and parabolic fitting algorithms for r-peak detection. 
       RR intervals considered sinus if the duration of RR-interval is within 15% of the duration of the previous RR-interval
       
-  - HRV Analysis: HRV_full
+  - HRV Analysis: HRV_full code
   
       Run Main.m file from HRV_full folder on data after running R-peak detection code (above)
       Code will calculate heart rate and HRV parameters (RMSSD, LF, HF, LF/HF, SD1, SD2, SD1/SD2, Sample entropy, renyi entropy)
