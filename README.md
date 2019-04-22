@@ -1,7 +1,7 @@
 # HRV
 Heart Rate Variability measurement on a single-lead raw Zio Patch ECG signal
 
-## Table of Content
+## Table of Contents
   - R-peak and Sinus Signal Detection for HRV analysis: R_peak_detector code
   
       Run Main.m file from R_peak_detector folder to calculate r-peaks and select a single 3-minute sinus epoch of signal.
@@ -9,10 +9,12 @@ Heart Rate Variability measurement on a single-lead raw Zio Patch ECG signal
       RR intervals considered sinus if the duration of RR-interval is within 15% of the duration of the previous RR-interval
       
   - HRV Analysis: HRV_full
+  
       Run Main.m file from HRV_full folder on data after running R-peak detection code (above)
       Code will calculate heart rate and HRV parameters (RMSSD, LF, HF, LF/HF, SD1, SD2, SD1/SD2, Sample entropy, renyi entropy)
   
   - Test files: 130812_Z320892913_1563
+  
       9 hours of raw data from single lead ZioPatch
   
   
