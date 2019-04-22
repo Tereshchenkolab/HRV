@@ -14,9 +14,9 @@ close all
 %Read root
 fs=200; %sampling rate of data
 
-folder_root='X:\OHSU Shared\Restricted\SOM\MED\CARDIO\Tereshchenko\PACE Study\HRV Study (Nichole)\Code\Code for GitHub\Sample Data\' %add file path for data
+folder_root='' %add file path for data
 
-excel_root='X:\OHSU Shared\Restricted\SOM\MED\CARDIO\Tereshchenko\PACE Study\HRV Study (Nichole)\Code\Code for GitHub\Sample Data\Excel_results\'; %add file path for excel files to be saved after calculation
+excel_root=''; %add file path for excel files to be saved after calculation
 
 tachofolder=dir(strcat(folder_root,'1*Z*'));
 
