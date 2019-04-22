@@ -9,7 +9,7 @@ warning('off');
 fs=200; %sampling rate of data
 
 
-folder_root='X:\OHSU Shared\Restricted\SOM\MED\CARDIO\Tereshchenko\PACE Study\HRV Study (Nichole)\Data\Test for issues\Post Full HRV Code Files\' %%file path to data folder
+folder_root='' %%file path to data folder
 
 folder_dir=dir(strcat(folder_root,'13*'))
 
