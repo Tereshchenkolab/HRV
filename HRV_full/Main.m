@@ -130,7 +130,7 @@ if isempty(M_d)==0
 
             RRs_All=RRms_All./1000;
 	    resample_fs = 500; % 4; 250; 1000
-            [LF,HF,VLF,TP,LFHFratio] = spectral_analysis_HRV(RRs_All,resample_fs);
+            [LF,HF,LFHFratio] = spectral_analysis_HRV(RRs_All,resample_fs);
 
 
             % Relative RR
