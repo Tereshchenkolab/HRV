@@ -27,7 +27,7 @@ Nichole Rogovoy, BS <rogovoy@ohsu.edu>
 Erick Andres Perez Alday, PhD, <perezald@ohsu.edu>
 Annabel Li-Pershing, BS, <lipershi@ohsu.edu>
 Larisa Tereshchenko, MD, PhD, <tereshch@ohsu.edu>
-Last update: April 6th, 2019
+  Last update: August 13th, 2019
   
 ### HRV Indices Calculation
 See pdf file in the repository for HRV Indices calculation methods.
@@ -41,5 +41,5 @@ Test files are provided for HRV calculation testing. Sampling rate 200 Hz. Ampli
 
 
 ### Manuscript to reference:
-BioRxiv preprint: doi: https://doi.org/10.1101/601542
-currently, manuscript undegoes peer review
+- BioRxiv preprint: doi: https://doi.org/10.1101/601542
+- currently, manuscript undegoes peer review
