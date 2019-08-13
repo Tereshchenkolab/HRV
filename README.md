@@ -16,6 +16,8 @@ Heart Rate Variability measurement on a single-lead raw Zio Patch ECG signal
   - Test files: 130812_Z320892913_1563
   
       9 hours of raw data from single lead ZioPatch
+      
+  - Fully de-identified dataset of the PACE study participants
   
   
 ### Authors
@@ -39,4 +41,5 @@ Test files are provided for HRV calculation testing. Sampling rate 200 Hz. Ampli
 
 
 ### Manuscript to reference:
-under review
+BioRxiv preprint: doi: https://doi.org/10.1101/601542
+currently, manuscript undegoes peer review
