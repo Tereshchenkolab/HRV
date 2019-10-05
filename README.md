@@ -17,7 +17,7 @@ Heart Rate Variability measurement on a single-lead raw Zio Patch ECG signal
   
       9 hours of raw data from single lead ZioPatch
       
-  - Fully de-identified dataset of the PACE study participants
+  - Fully de-identified dataset of the PACE study participants: PACE deidentified ECGpatch HRV dataset 28pts.xls
   
   
 ### Authors
@@ -42,4 +42,4 @@ Test files are provided for HRV calculation testing. Sampling rate 200 Hz. Ampli
 
 ### Manuscript to reference:
 - BioRxiv preprint: doi: https://doi.org/10.1101/601542
-- currently, manuscript undegoes peer review
+- J Am Heart Assoc. 2019 Oct;8(19):e013748. doi: 10.1161/JAHA.119.013748. Epub 2019 Sep 28. https://www.ncbi.nlm.nih.gov/pubmed/31564195
