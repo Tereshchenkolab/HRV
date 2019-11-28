@@ -336,7 +336,7 @@ function Rx=rpeak_parabolic(data,fs)
     Rx = PeakCorrection(data,Rx,'bestPeak');
 end
 
-% R peak algo 3
+% R peak algo 3. it is possible that the code in lines 343 to 359 was written by William Young <w.young@qmul.ac.uk> and 3 his colleagues at QMUL/UCL 
 function qrs_i_raw=rpeak_pca(data,fs)
     %offset = 100;
     
