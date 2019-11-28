@@ -41,5 +41,5 @@ Test files are provided for HRV calculation testing. Sampling rate 200 Hz. Ampli
 
 
 ### Manuscript to reference:
-- Rogovoy NM, Howell SJ, Lee TL, Hamilton C, Perez-Alday EA, Kabir MM, Zhang Y, Kim ED, Fitzpatrick J, Monroy-Trujillo JM, Estrella MM, Sozio SM, Jaar BG, Parekh RS, Tereshchenko LG. Hemodialysis Procedure-Associated Autonomic Imbalance and Cardiac Arrhythmias: Insights From Continuous 14-Day ECG Monitoring. J Am Heart Assoc. 2019 Oct;8(19):e013748. doi: 10.1161/JAHA.119.013748. Epub 2019 Sep 28. PMID: 31564195; PMCID: PMC6806026.  https://www.ncbi.nlm.nih.gov/pubmed/31564195
+- Rogovoy NM, Howell SJ, Lee TL, Hamilton C, Perez-Alday EA, Kabir MM, Zhang Y, Kim ED, Fitzpatrick J, Monroy-Trujillo JM, Estrella MM, Sozio SM, Jaar BG, Parekh RS, Tereshchenko LG. Hemodialysis Procedure-Associated Autonomic Imbalance and Cardiac Arrhythmias: Insights From Continuous 14-Day ECG Monitoring. J Am Heart Assoc. 2019 Oct;8(19):e013748. doi:10.1161/JAHA.119.013748. Epub 2019 Sep 28. PMID: 31564195; PMCID: PMC6806026.  https://www.ncbi.nlm.nih.gov/pubmed/31564195
 - BioRxiv preprint: doi: https://doi.org/10.1101/601542
