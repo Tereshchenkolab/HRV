@@ -336,7 +336,9 @@ function Rx=rpeak_parabolic(data,fs)
     Rx = PeakCorrection(data,Rx,'bestPeak');
 end
 
-% R peak algo 3. it is possible that the code in lines 343 to 359 was written by William Young <w.young@qmul.ac.uk> and 3 his colleagues at QMUL/UCL 
+% R peak algo 3. The code in lines 345 to 361 was written by William Young <w.young@qmul.ac.uk>, Stefan Van Duijvenboden 
+%   and Julia Ramirez, and Michele Orini at William Harvey Research Institute, Queen Mary University of London, London, United Kingdom.
+
 function qrs_i_raw=rpeak_pca(data,fs)
     %offset = 100;
     
@@ -347,7 +349,7 @@ function qrs_i_raw=rpeak_pca(data,fs)
         ecg_avg = -ecg_avg;
     end
 
-    % Take derivative to eccentuate R peaks before thresholding
+    % Take derivative to accentuate R peaks before thresholding
     decg_avg = diff(ecg_avg);
     decg_avg2 = diff(decg_avg);
     thrsY = nanmean(decg_avg2)-1.5*std(decg_avg2);
